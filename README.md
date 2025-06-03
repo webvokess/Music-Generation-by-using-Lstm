@@ -35,6 +35,7 @@ Music-Generation is a deep learning project that uses Recurrent Neural Networks 
   └── README.md            # Project documentation
 ```
 
+
 Let me know if you'd like me to include:
 - Installation steps (e.g., `pip install -r requirements.txt`)
 - Demo output or example MIDI file
