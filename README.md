@@ -7,6 +7,7 @@ Music-Generation is a deep learning project that uses Recurrent Neural Networks 
 
 ## Author - Shashank Pandey
 
+
 ## 📌 Features
 
 - Trains on MIDI files to learn musical patterns
