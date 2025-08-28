@@ -34,7 +34,19 @@ Music-Generation is a deep learning project that uses Recurrent Neural Networks 
   ├── generate.py          # Music generation script
   ├── prepare.py           # Data preprocessing script
   └── README.md            # Project documentation
+
 ```
+Simplified Flow Diagram (Text Form)
+
+MIDI Dataset → Preprocessing → Training Data → LSTM Model → Trained Model
+      ↓                                                   ↓
+   Mapping + Sequences                          Seed Sequence Input
+      ↓                                                   ↓
+   Prepared Data                                Music Generation
+      ↓                                                   ↓
+   Model Training                            Generated Notes/Chords
+                                                           ↓
+                                                     MIDI Output
 
 
 Let me know if you'd like me to include:
