@@ -4,7 +4,7 @@
 </div>  
 
 Music-Generation is a deep learning project that uses Recurrent Neural Networks (RNNs), specifically LSTM (Long Short-Term Memory) layers, to generate music based on training data from MIDI files 
-
+  
 ## Author - Shashank Pandey   
 
 
