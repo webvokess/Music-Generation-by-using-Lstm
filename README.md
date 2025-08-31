@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Music-Generation%&fontSize=70&fontAlignY=35&animation=fadeIn" /> 
      
 </div>  
-
+  
 Music-Generation is a deep learning project that uses Recurrent Neural Networks (RNNs), specifically LSTM (Long Short-Term Memory) layers, to generate music based on training data from MIDI files 
   
 ## Author - Shashank Pandey   
